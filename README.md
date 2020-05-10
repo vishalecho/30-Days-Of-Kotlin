@@ -1,4 +1,3 @@
-> 30-Days-Of-Kotlin
 ![#30DaysOfKotlin](Kotlin.png)
 
 ## Kotlin Bootcamp for Programmers
